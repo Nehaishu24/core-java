@@ -1,4 +1,4 @@
-package in.com.rays.basics;
+package in.co.rays.basics;
 
 public class Starpattern {
 public static void main(String[] args) {
